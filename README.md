@@ -1,6 +1,6 @@
 # Hola, un gusto. Soy Claudia :wave:
 
-fotoPerfil (2).png
+[fotoPerfil (2).png](https://github.com/CatalinaRosales29/CatalinaRosales29/blob/main/fotoPerfil%20(2).png)
 <!--
 **CatalinaRosales29/CatalinaRosales29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
